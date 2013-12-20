@@ -1,0 +1,7 @@
+{
+  "name": "heatmap.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tpaszun/heatmap.js",
+  "main": "src/heatmap.js",
+  "private": true
+}
